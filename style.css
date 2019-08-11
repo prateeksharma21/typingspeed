@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=roboto);
 *{
 	margin: 0;
 	box-sizing: border-box;
 	transition: all 0.5s;
+	font-family: roboto;
 }
 
 textarea {
