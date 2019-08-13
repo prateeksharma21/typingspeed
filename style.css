@@ -3,7 +3,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	transition: all 0.5s;
-	font-family: roboto;
+	font-family: roboto, cursive,arial;
 }
 
 textarea {
